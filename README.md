@@ -1,5 +1,6 @@
 # Sparse-Coding
 
+#### Efficient Coding and Bayesian Estimation with Neural Populations - [pdf](http://www.cns.nyu.edu/pub/lcv/ganguli-phd.pdf)
 #### Independent Component Analysis: Algorithms and Applications - [pdf](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN00new.pdf)
 #### Predictive Coding - [pdf](https://homes.cs.washington.edu/~rao/predcoding2011.pdf)
 #### Efficient sparse coding algorithms - [pdf](https://papers.nips.cc/paper/2979-efficient-sparse-coding-algorithms.pdf)
