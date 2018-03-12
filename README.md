@@ -3,6 +3,7 @@
 #### Efficient Coding and Bayesian Estimation with Neural Populations - [pdf](http://www.cns.nyu.edu/pub/lcv/ganguli-phd.pdf)
 #### Independent Component Analysis: Algorithms and Applications - [pdf](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN00new.pdf)
 #### NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION - [pdf](https://arxiv.org/pdf/1410.8516.pdf)
+#### Slow Feature Analysis - [pdf](http://www.cnbc.cmu.edu/~tai/readings/learning/wiskott_sejnowski_2002.pdf)
 #### General independent subspace analysis - [pdf](https://pdfs.semanticscholar.org/e37a/03108671ff57aee76342c736a454b247049b.pdf)
 #### Topographic Independent Component Analysis - [pdf](http://people.ee.duke.edu/~lcarin/Iulian9.22.06b.pdf)
 #### Topographic ICA as a model of V1 receptive fields - [pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=860754)
